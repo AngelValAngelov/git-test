@@ -1,0 +1,2 @@
+class Smth:
+    pass
